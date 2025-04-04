@@ -1,0 +1,17 @@
+beautifulsoup4==4.13.3
+bs4==0.0.2
+certifi==2025.1.31
+cffi==1.17.1
+charset-normalizer==3.4.1
+cryptography==44.0.2
+idna==3.10
+patool==4.0.0
+pdfminer.six==20250327
+pdfplumber==0.11.6
+pillow==11.1.0
+pycparser==2.22
+pypdfium2==4.30.1
+requests==2.32.3
+soupsieve==2.6
+typing_extensions==4.13.1
+urllib3==2.3.0
